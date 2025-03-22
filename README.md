@@ -37,6 +37,7 @@
 
 ## 🛠️ Технологический стек:
 - **Backend:** Java 21, Spring Boot, Spring MVC, Spring Security, Hibernate
+- **Тестирование:** Junit, Mockito
 - **Сборщики проекта:** Maven, Gradle
 - **Базы данных:** PostgreSQL
 - **DevOps & Cloud:** Docker, Kafka
